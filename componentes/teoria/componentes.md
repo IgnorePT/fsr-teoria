@@ -84,11 +84,8 @@ const App = () => {
 }
 
 // Como Utilizamos 
-
 <App />
 <App></App>
-
-
 ```
 
 
