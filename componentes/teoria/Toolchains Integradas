@@ -44,7 +44,7 @@ Uma das primeira build tools existentes em React, veio facilitar imenso a forma 
 Criação de um projeto novo, executar no terminal:
 
 ```sh
-npx create-react-app my-app
+npx create-react-app my-app # my-app = nome da aplicação
 cd my-app
 npm start
 ```
@@ -61,6 +61,10 @@ Foca-se em em providenciar uma experiencia mais performatica e rapida para os de
 npm create vite@latest
 # OU
 yarn create vite
+
+cd vite-project
+npm i
+npm run dev
 ```
 
 
