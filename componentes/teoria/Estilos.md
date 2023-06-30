@@ -53,7 +53,6 @@ Em `JSX` implementamos o mesmo sistema mas com recurso a prop `className` de Rea
         height: 100px;
         background-color: blue;
     }
-
 ```
 
 ```HTML
@@ -70,7 +69,6 @@ Em `JSX` implementamos o mesmo sistema mas com recurso a prop `className` de Rea
         height: 100px;
         background-color: blue;
     }
-
 ```
 
 ```JSX
