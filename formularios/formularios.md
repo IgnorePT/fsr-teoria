@@ -177,7 +177,7 @@ const ExemploFormulario = () => {
         } else {
             setErrors(currentErrors)
         }
-       
+
     }
 
     return(
@@ -202,6 +202,7 @@ export default ExemploFormulario;
 ```
 
 ### Validações com recurso a Bibliotecas externas
+
 No exemplo anterior vimos como podiamos efectuar validações criadas por nos no momento de submissão do formulário contudo normalmente para validações comuns não é necessario criarmos a lógica toda do nosso lado. isto porque existe um numero gigante de bibliotecas de validação que conseguem fazer isso por nos.  
 Vou mostrar um exemplo de validação utilizando o `react-hook-form`.
 
@@ -247,3 +248,4 @@ const ExemploFormulario = () => {
     );
 
 }
+```

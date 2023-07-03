@@ -68,3 +68,8 @@ Podes criar a tua aplicação com recurso ao `CRA` ou `VITE` fica a tua escolha.
 **Figma:** Not provided
 
 **Dificuldade:** Depends (Mas devia ser Dificil)
+
+# Duvidas
+
+Email: invoke.std@gmail.com
+Whatsapp: +351938946850
